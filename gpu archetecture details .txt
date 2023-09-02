@@ -1,0 +1,3 @@
+https://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/
+
+https://developer.nvidia.com/cuda-gpus
